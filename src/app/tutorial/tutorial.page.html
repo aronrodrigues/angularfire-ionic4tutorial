@@ -1,0 +1,16 @@
+<ion-slides pager="true" #slides>
+  <ion-slide class="step-one">
+    <h1>Explore the Demo</h1>
+    <p>The Ionic Master Course demo app.</p>
+    <ion-button color="dark" (click)="slides.slideNext()">Next</ion-button>
+  </ion-slide>
+  <ion-slide class="step-two">
+    <h1>Watch the videos</h1>
+    <p>Each feature and concept is backed by a video tutorial.</p>
+    <ion-button color="dark" (click)="slides.slideNext()">Next</ion-button>
+  </ion-slide>
+  <ion-slide class="step-three">
+    <h1>Now it is your time</h1>
+    <p>Build and deploy your own app.</p>
+    <ion-button color="primary" (click)="finish()">Sounds awesome</ion-button>
+  </ion-slide>

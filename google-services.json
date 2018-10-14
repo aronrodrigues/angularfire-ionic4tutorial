@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "719074406738",
+    "firebase_url": "https://tutorial-ionfire.firebaseio.com",
+    "project_id": "tutorial-ionfire",
+    "storage_bucket": "tutorial-ionfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719074406738:android:d3c6b1849657a1eb",
+        "android_client_info": {
+          "package_name": "br.com.oscarasdati.tutorialionfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719074406738-9ue972snof3paeff5kmjsqvocmvf7hjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq4ALX5R2tsAsUwj0GkSLTMKLCQWVL91I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
